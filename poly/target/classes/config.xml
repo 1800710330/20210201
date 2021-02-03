@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--XML文件的元素(节点或标签)的名称可以任意写-->
+<!--XML文件的根元素只能有1个-->
+<animals>
+    <animal>cn.edu.guet.poly.Cat</animal>
+</animals>
